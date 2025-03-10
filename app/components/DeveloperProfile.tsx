@@ -19,7 +19,7 @@ export function DeveloperProfile() {
           <h1 className="text-4xl font-bold mb-4">Gabriel Alfau Laracuente</h1>
           <div className="text-xl mb-6">
             <p className="pb-2 text-2xl font-semibold">
-              Front End Developer | 4+ Years of Experience
+              Front End Developer. | 4+ Years of Experience.
             </p>
             <p>
               Experienced in developing scalable, high-performance applications
