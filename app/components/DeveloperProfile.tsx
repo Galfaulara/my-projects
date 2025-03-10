@@ -4,11 +4,11 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 export function DeveloperProfile() {
   return (
-    <section className="bg-gradient-to-r from-[#00988d] to-[#2c6b74] text-white py-16">
+    <section className="bg-gradient-to-r from-[#00988d] to-[#2c4974] text-white py-16">
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center justify-between">
         <div className="md:w-1/2 mb-8 md:mb-0">
           <Image
-            src="https://storage.rxresu.me/clp9fy7vb98iw9huni1lrshme/pictures/clp9fy7vb98iw9huni1lrshme.jpg"
+            src="https://storage.rxresu.me/clp9ftol70hhi9hunoe1r4lsh/pictures/c6pwiwa0urxiixjxvckfbawh.jpg"
             alt="Developer Profile"
             width={400}
             height={400}
@@ -16,19 +16,23 @@ export function DeveloperProfile() {
           />
         </div>
         <div className="md:w-1/2 text-center md:text-left">
-          <h1 className="text-4xl font-bold mb-4">Emanuel Santana</h1>
+          <h1 className="text-4xl font-bold mb-4">Gabriel Alfau Laracuente</h1>
           <div className="text-xl mb-6">
             <p className="pb-2 text-2xl font-semibold">
-              Full-Stack Developer | 8+ Years of Experience
+              Front End Developer | 4+ Years of Experience
             </p>
             <p>
-            Experienced in building scalable, high-performance web applications with React, Node.js, and TypeScript. I also have strong expertise in cloud technologies and databases, including AWS and MySQL.
+              Experienced in developing scalable, high-performance applications
+              using ReactJS, ReactNative, Node.js, and TypeScript. Proficient in
+              front-end and essential knowledge in back-end development,
+              including state management , API integrations, and database
+              interactions. Skilled in version control with Git and GitHub.
             </p>
             <p className="mt-3">Let’s create something amazing! 🚀</p>
           </div>
           <div className="flex justify-center md:justify-start space-x-4 mb-6">
             <Link
-              href="https://github.com/esantana21"
+              href="https://github.com/Galfaulara/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-300"
@@ -36,7 +40,7 @@ export function DeveloperProfile() {
               <FaGithub size={24} />
             </Link>
             <Link
-              href="https://www.linkedin.com/in/esantana21/"
+              href="https://www.linkedin.com/in/gabriel-alfau-4148469a/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-300"
@@ -45,7 +49,7 @@ export function DeveloperProfile() {
             </Link>
           </div>
           <Link
-            href="https://storage.rxresu.me/clp9fy7vb98iw9huni1lrshme/resumes/emanuel-santana.pdf"
+            href="https://storage.rxresu.me/clp9ftol70hhi9hunoe1r4lsh/resumes/gabriel-alfau-laracuente-copy.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-white text-purple-600 font-semibold py-2 px-4 rounded-full hover:bg-gray-100 transition duration-300"
