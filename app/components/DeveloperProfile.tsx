@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 export function DeveloperProfile() {
   return (
-    <section className="bg-gradient-to-r from-[#00988d] to-[#2c4974] text-white py-16">
+    <section className="bg-gradient-to-b from-[#82a9d0] to-[#d3e2ea] text-[#44484a] py-16">
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center justify-between">
         <div className="md:w-1/2 mb-8 md:mb-0">
           <Image

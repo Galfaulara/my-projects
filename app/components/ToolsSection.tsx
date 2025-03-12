@@ -45,7 +45,7 @@ const tools = [
 
 export function ToolsSection() {
   return (
-    <section className="bg-gray-100 py-16">
+    <section className="bg-[#d3e2ea] py-16 text-[#44484a]">
       <div className="container mx-auto px-4">
         <h2 className="text-3xl font-bold mb-8 text-center">
           Tools and technologies
