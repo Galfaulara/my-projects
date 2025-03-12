@@ -28,7 +28,7 @@ export default function Home() {
               onClick={() => setSelectedProject(project)}
             >
               <Image
-                src={project?.images[0] || "/placeholder.svg"}
+                src={project.images[0] || "/placeholder.svg"}
                 alt={project.title}
                 width={600}
                 height={400}
