@@ -25,7 +25,7 @@ export function DeveloperProfile() {
               Experienced in developing scalable, high-performance applications
               using ReactJS, ReactNative, Node.js, and TypeScript. Proficient in
               front-end and essential knowledge in back-end development,
-              including state management , API integrations, and database
+              including state management, API integrations, and database
               interactions. Skilled in version control with Git and GitHub.
             </p>
             <p className="mt-3">Let’s create something amazing! 🚀</p>
